@@ -8,3 +8,6 @@ function downl(fileName,json){
                 saveLink.click();
             }
 downl('text.txt',"奥术大师多");
+
+--excel插件
+ClosedXML
